@@ -1,9 +1,9 @@
 {
-    "name": "RuwersTheme",
-    "publisher": "Leoruwer",
-    "displayName": "Ruwer's Theme",
+    "name": "nene-theme",
+    "publisher": "leonardoruwer",
+    "displayName": "Nenê-Theme",
     "description": "VSCode theme created by: Leoruwer",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.39.0"
     },
