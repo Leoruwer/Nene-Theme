@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ruwer's Theme",
+                "label": "Nenê Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Ruwer's Theme-color-theme.json"
+                "path": "./themes/Nene Theme-color.json"
             }
         ]
     }
