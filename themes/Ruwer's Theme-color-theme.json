@@ -1,13 +1,51 @@
 {
-	"name": "Ruwer's Theme",
-	"type": "dark",
-	"colors": {
-		"editor.background": "#1b1b1b",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#416279",
-		"sideBarTitle.foreground": "#000000"
-	},
-	"tokenColors": [
+  "name": "Ruwer's Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1b1b1b",
+    "editor.foreground": "#ffffff",
+    "editorLineNumber.foreground": "#909090",
+    "editorLineNumber.activeForeground": "#ffffff",
+    "editorCursor.foreground": "#ffffff",
+    "editor.selectionBackground": "#26345f",
+    "editor.selectionHighlightBackground": "#474775",
+    "editor.findMatchBackground": "#474775",
+    "sideBarTitle.foreground": "#cecece",
+    "button.background": "#4c4cff",
+    "button.foreground": "#cecece",
+    "button.hoverBackground": "#3e3ebe",
+    "dropdown.background": "#111111",
+    "dropdown.listBackground": "#111111",
+    "dropdown.border": "#111111",
+    "dropdown.foreground": "#cecece",
+    "scrollbar.shadow": "#000000",
+    "scrollbarSlider.background": "#111111",
+    "scrollbarSlider.hoverBackground": "#131313",
+    "scrollbarSlider.activeBackground": "#141414",
+    "sideBar.background": "#202020",
+    "sideBar.foreground": "#cecece",
+    "sideBar.border": "#000000",
+    "sideBarSectionHeader.background": "#181818",
+    "sideBarSectionHeader.border": "#000000",
+    "sideBarSectionHeader.foreground": "#cecece",
+    "editorGroup.border": "#000000",
+    "editorGroup.dropBackground": "#50505050",
+    "tab.activeBackground": "#1c2644",
+    "tab.inactiveBackground": "#252525",
+    "tab.inactiveForeground": "#cecece",
+    "tab.hoverBackground": "#26345f",
+    "tab.border": "#000000",
+    "tab.activeBorder": "#000000",
+    "tab.activeBorderTop": "#000000",
+    "statusBar.background": "#36369c",
+    "terminal.border": "#000000",
+    "terminal.background": "#141414",
+    "terminalCursor.foreground": "#cecece",
+    "breadcrumb.foreground": "#cecece"
+  },
+
+
+  "tokenColors": [
     {
       "name": "Comment",
       "scope": "comment",
@@ -210,5 +248,5 @@
         "foreground": "#6573C3"
       }
     }
-	]
+  ]
 }
