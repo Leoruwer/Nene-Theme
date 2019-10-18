@@ -1,0 +1,22 @@
+{
+    "name": "RuwersTheme",
+    "publisher": "Leoruwer",
+    "displayName": "Ruwer's Theme",
+    "description": "VSCode theme created by: Leoruwer",
+    "version": "1.0.2",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ruwer's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ruwer's Theme-color-theme.json"
+            }
+        ]
+    }
+}
