@@ -4,7 +4,7 @@
     "displayName": "Nenê-Theme",
     "description": "VSCode theme created by: Leoruwer",
     "icon": "icon.png",
-    "version": "2.0.3",
+    "version": "2.0.4",
     "engines": {
         "vscode": "^1.39.0"
     },
