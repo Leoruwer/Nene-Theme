@@ -378,13 +378,13 @@
 			"name": "STRING",
 			"scope": [
 				"string",
-        "string.quoted.single",
+        		"string.quoted.single",
 				"source.css support.constant",
 				"entity.name.import.go",
 				"markup.raw.texttt"
 			],
 			"settings": {
-				"foreground": "#e66533"
+				"foreground": "#3CB371"
 			}
 		},
     {
@@ -394,7 +394,7 @@
         "punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#B22222"
+        "foreground": "#00FF7F"
       }
     },
     {
@@ -740,13 +740,12 @@
 				"storage.modifier.lifetime.rust",
 				"entity.name.lifetime.rust",
 				"source.rust meta.attribute.rust",
-				"meta.attribute.id entity.other.attribute-name",
 				"keyword.other.fn.rust",
 				"source.ocaml punctuation.definition.tag emphasis"
 			],
 			"settings": {
 				"fontStyle": "bold italic",
-        "foreground": "#BA55D3"
+        		"foreground": "#BA55D3"
 			}
 		},
 		{

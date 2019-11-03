@@ -23,5 +23,8 @@
                 "path": "./themes/Nene Theme-color.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^1.69.0"
     }
 }
