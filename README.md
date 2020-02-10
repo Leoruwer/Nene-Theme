@@ -14,4 +14,4 @@ Press on MacOS: 'CMD + SHIFT + P' or on Linux/Windows 'CTRL + SHIFT + P' and sea
 
 It's just a simple screenshot from an PHP code. You have to try the theme to see all the colors.
 
-![Php](https://imgur.com/dGW2VkM.png)
+![Php](https://i.imgur.com/x71rtTV.png)
