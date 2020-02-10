@@ -741,7 +741,9 @@
 				"entity.name.lifetime.rust",
 				"source.rust meta.attribute.rust",
 				"keyword.other.fn.rust",
-				"source.ocaml punctuation.definition.tag emphasis"
+        "source.ocaml punctuation.definition.tag emphasis",
+        "support.function.construct.begin.blade",
+        "support.function.construct.end.blade"
 			],
 			"settings": {
 				"fontStyle": "bold italic",
@@ -842,6 +844,72 @@
 			"settings": {
 				"foreground": "#b267e6"
 			}
-		}
+    },
+    {
+      "scope": [
+        "source.ruby",
+        "source.ruby.embedded.erb"
+      ],
+      "settings": {
+        "foreground": "#49D6E9"
+      }
+    },
+    {
+      "scope": [
+        "support.function.kernel.ruby"
+      ],
+      "settings": {
+        "foreground": "#CD5C5C"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.section.embedded.end.erb",
+        "punctuation.section.embedded.begin.erb"
+      ],
+      "settings": {
+        "foreground": "#BA55D3"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.block.ruby",
+        "meta.block.parameters.ruby",
+        "meta.embedded.line.erb",
+        "variable.other.readwrite.instance.ruby"
+      ],
+      "settings": {
+        "foreground": "#db7800",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "keyword.control.def.ruby",
+        "meta.function.method.without-arguments.ruby",
+        "keyword.control.class.ruby"
+      ],
+      "settings": {
+        "foreground": "#CD5C5C",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "support.class.ruby",
+        "entity.name.type.class.ruby"
+      ],
+      "settings": {
+        "foreground": "#4994e9"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function.ruby"
+      ],
+      "settings": {
+        "foreground": "#0d71ff"
+      }
+    }
 	]
 }
